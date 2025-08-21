@@ -8,6 +8,8 @@ My work focuses on **performance, security, and intuitive design**, helping star
 ---
 
 ## 🛠️ Tech Stack
+### **Languages**
+- Javascript, Typescript, Python, PHP
 
 ### **Frontend**
 - React, Next.js (App Router), Vue  
@@ -17,7 +19,7 @@ My work focuses on **performance, security, and intuitive design**, helping star
 ### **Backend**
 - Node.js, Express, NestJS  
 - Ruby, GraphQL, REST APIs  
-- Google Apps Script  
+- RabbitMQ
 
 ### **Databases**
 - PostgreSQL, Supabase, Prisma  
@@ -46,11 +48,14 @@ My work focuses on **performance, security, and intuitive design**, helping star
 ---
 
 ## 📌 Highlight Projects
-- **Connect123.app** – Event booking & payments (Stripe & Netopia)  
-- **PromptReports.ai** – AI prompt & report marketplace  
-- **Doctolib.de** – Chrome extension integration with EMR systems  
-- **Xerux.fr** – Healthcare platform with Google Maps/Calendar  
-- **Insurance-Supermarket.com** – AWS microservices for dialer app  
+
+- [**PromptReports.ai**](https://promptreports.ai) – AI prompt & report marketplace  
+- [**Hotel AI Chatbot**](https://hotel-ai-chatbot.vercel.app/) – Conversational AI assistant for hotels, automating guest inquiries & bookings  
+- [**Connect123.app**](https://connect123.app) – Event booking & payments (Stripe & Netopia)  
+- [**Doctolib.de**](https://www.doctolib.de/) – Chrome extension integration with EMR systems  
+- [**Xerux.fr**](https://xerux.fr/) – Healthcare platform with Google Maps/Calendar  
+- [**Insurance Supermarket**](https://insurance-supermarket.com/) – AWS microservices for dialer app  
+
 ---
 
 ## 💡 My Quality Policy  
