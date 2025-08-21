@@ -9,7 +9,7 @@ My work focuses on **performance, security, and intuitive design**, helping star
 
 ## 🛠️ Tech Stack
 ### **Languages**
-- Javascript, Typescript, Python, PHP
+- Javascript, Typescript, Python, PHP, Google Apps Script
 
 ### **Frontend**
 - React, Next.js (App Router), Vue  
