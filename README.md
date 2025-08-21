@@ -61,5 +61,4 @@ RAG + OpenAI-powered app that generates **viral-style posts**.
 
 📫 Let’s connect:  
 - 🌍 [Upwork Profile](https://www.upwork.com/freelancers/devhoria)
-- 💼 [LinkedIn](#)  
-- ✉️ [Email Me](#)
+- ✉️ [Email Me](mailto:dev.horia@gmail.com)
