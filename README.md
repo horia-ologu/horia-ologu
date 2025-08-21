@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Horia  
-⚡ Full-Stack Engineer | 9+ Years Experience | Top Rated Plus (Top 3% Freelancers)
+⚡ Full-Stack Engineer | 9+ Years Experience | UPWORK Top Rated Plus Freelancer (Top 3% Freelancers)
+ **ALWAYS DELIVERING and ALWAYS 5⭐ QUALITY**
 
 I build **production-grade SaaS platforms, CRMs, and automation tools** with clean, scalable architectures.  
 My work focuses on **performance, security, and intuitive design**, helping startups and enterprises bring ideas to life.
