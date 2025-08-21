@@ -7,51 +7,50 @@ My work focuses on **performance, security, and intuitive design**, helping star
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Tech Stack
 
-### 🔹 [SaaS Boilerplate (Next.js + Supabase + Stripe)](https://github.com/horia-dev/saas-starter)  
-A **ready-to-scale SaaS starter kit** with:  
-- Authentication (Supabase)  
-- Subscription billing (Stripe)  
-- Dashboard UI (React, Tailwind, shadcn)  
-- API routes with Prisma + PostgreSQL  
+### **Frontend**
+- React, Next.js (App Router), Vue  
+- TailwindCSS, RadixUI / shadcn, MaterialUI  
+- HTML, CSS, TypeScript, JavaScript  
 
-📸 Demo: *(screenshot or GIF)*  
-🌐 Live: [saas-demo.vercel.app](#)
+### **Backend**
+- Node.js, Express, NestJS  
+- Ruby, GraphQL, REST APIs  
+- Google Apps Script  
+
+### **Databases**
+- PostgreSQL, Supabase, Prisma  
+- MongoDB, Firebase  
+- Redis (caching & queues)  
+
+### **Payments & APIs**
+- Stripe, PayPal, Netopia  
+- Google Suite, Mailchimp  
+- Xero, Twilio, Discord, Custom Integrations  
+
+### **AI Integrations**
+- ChatGPT, Claude, Grok, Gemini, Copilot  
+
+### **DevOps & Cloud**
+- Docker, CI/CD (GitHub Actions, Jenkins)  
+- Vercel, AWS, Azure, GCP, Heroku  
+
+### **Testing**
+- Jest, Unit & Integration Testing  
+
+### **Project Management**
+- Agile / Kanban  
+- ClickUp, Jira, Asana  
 
 ---
 
-### 🔹 [Event Booking Platform](https://github.com/horia-dev/event-booking-demo)  
-A simplified version of my production app (Connect123).  
-- Event creation & booking flow  
-- Secure payments (Stripe test mode)  
-- Real-time dashboard updates with Supabase  
-- Fully responsive design  
-
-📸 Demo: *(screenshot/GIF)*  
-🌐 Live: [event-demo.vercel.app](#)
-
----
-
-### 🔹 [AI Social Media Post Generator](https://github.com/horia-dev/ai-poster)  
-RAG + OpenAI-powered app that generates **viral-style posts**.  
-- Input a topic → get 4 optimized social posts  
-- Embeddings in a vector DB for context  
-- Authentication (Supabase), payments (Stripe)  
-
-📸 Demo: *(screenshot/GIF)*  
-🌐 Live: [poster-demo.vercel.app](#)
-
----
-
-## 🛠️ Tech I Work With
-- **Frontend:** React, Next.js, TailwindCSS, shadcn  
-- **Backend:** Node.js, NestJS, Express, Prisma, Supabase  
-- **Databases:** PostgreSQL, MySQL, MongoDB  
-- **Integrations:** Stripe, PayPal, Google APIs, AI (ChatGPT, Claude)  
-- **DevOps:** Docker, GitHub Actions, Vercel, AWS, GCP  
-- **Other:** Monorepos (Nx), Agile workflows, CI/CD pipelines  
-
+## 📌 Highlight Projects
+- **Connect123.app** – Event booking & payments (Stripe & Netopia)  
+- **PromptReports.ai** – AI prompt & report marketplace  
+- **Doctolib.de** – Chrome extension integration with EMR systems  
+- **Xerux.fr** – Healthcare platform with Google Maps/Calendar  
+- **Insurance-Supermarket.com** – AWS microservices for dialer app  
 ---
 
 ## 💡 My Quality Policy  
