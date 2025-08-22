@@ -9,8 +9,11 @@ My work focuses on **performance, security, and intuitive design**, helping star
 ---
 
 ## 🛠️ Tech Stack
-### **Languages**
+### ✅ **Languages**
 - Javascript, Typescript, Python, PHP, Google Apps Script
+
+### ✅ **AI developing assistant**
+- GitHub Copilot, Cursor
 
 ### ✅ **Frontend**
 - React, Next.js (App Router), Vue  
@@ -33,18 +36,20 @@ My work focuses on **performance, security, and intuitive design**, helping star
 - Xero, Twilio, Discord, Custom Integrations  
 
 ### ✅ **AI Integrations**
-- ChatGPT, Claude, Grok, Gemini, Copilot  
+- ChatGPT, Claude, Grok, Gemini, Copilot, AWS Nova Pro, Microsoft Copilot
 
 ### ✅ **DevOps & Cloud**
 - Docker, CI/CD (GitHub Actions, Jenkins)  
-- Vercel, AWS, Azure, GCP, Heroku  
+- Vercel, AWS, Azure, GCP, Heroku, Digital Ocean, Hostinger, Railway
 
 ### ✅ **Testing**
 - Jest, Unit & Integration Testing  
 
 ### ✅ **Project Management**
 - Agile / Kanban  
-- ClickUp, Jira, Asana  
+- ClickUp, Jira, Asana
+- Slack, Discord
+- Confluence, Notion
 
 ---
 
