@@ -12,37 +12,37 @@ My work focuses on **performance, security, and intuitive design**, helping star
 ### **Languages**
 - Javascript, Typescript, Python, PHP, Google Apps Script
 
-### **Frontend**
+### ✅ **Frontend**
 - React, Next.js (App Router), Vue  
 - TailwindCSS, RadixUI / shadcn, MaterialUI  
 - HTML, CSS, TypeScript, JavaScript  
 
-### **Backend**
+### ✅ **Backend**
 - Node.js, Express, NestJS  
 - Ruby, GraphQL, REST APIs  
 - RabbitMQ
 
-### **Databases**
+### ✅ **Databases**
 - PostgreSQL, Supabase, Prisma  
 - MongoDB, Firebase  
 - Redis (caching & queues)  
 
-### **Payments & APIs**
+### ✅ **Payments & APIs**
 - Stripe, PayPal, Netopia  
 - Google Suite, Mailchimp  
 - Xero, Twilio, Discord, Custom Integrations  
 
-### **AI Integrations**
+### ✅ **AI Integrations**
 - ChatGPT, Claude, Grok, Gemini, Copilot  
 
-### **DevOps & Cloud**
+### ✅ **DevOps & Cloud**
 - Docker, CI/CD (GitHub Actions, Jenkins)  
 - Vercel, AWS, Azure, GCP, Heroku  
 
-### **Testing**
+### ✅ **Testing**
 - Jest, Unit & Integration Testing  
 
-### **Project Management**
+### ✅ **Project Management**
 - Agile / Kanban  
 - ClickUp, Jira, Asana  
 
