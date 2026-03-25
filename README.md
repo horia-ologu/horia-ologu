@@ -55,7 +55,8 @@ My work focuses on **performance, security, and intuitive design**, helping star
 
 ## 📌 Highlight Projects
 
-- [**PromptReports.ai**](https://promptreports.ai) – AI prompt & report marketplace  
+- [**PromptReports.ai**](https://promptreports.ai) – AI prompt & report marketplace
+- [**Archiving & Accounting**](https://contlex.ro/) – Complex app with full AI assistance integration for archiving and accounting wizard + E-commerce & chatbot
 - [**Hotel AI Chatbot**](https://hotel-ai-chatbot.vercel.app/) – Conversational AI assistant for hotels, automating guest inquiries & bookings  
 - [**Connect123.app**](https://connect123.app) – Event booking & payments (Stripe & Netopia)  
 - [**Doctolib.de**](https://www.doctolib.de/) – Chrome extension integration with EMR systems  
